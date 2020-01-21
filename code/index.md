@@ -5,4 +5,4 @@ Here are some files about optimization:
 - [Download Jupyter Notebook](Zhang-westvaco.html)
 
 Here are some other demos:
-- ![Here is a picture]
+- ![Here is a picture]()

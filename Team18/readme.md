@@ -2,4 +2,4 @@
 
 ### Team 18 presentation
 - [Walk through](presentationrmd.html)
-- [Download Jupyter Notebook](presentationrmd.html)
+- [Download Applied Exercise 8](Applied_Excercise8.R)

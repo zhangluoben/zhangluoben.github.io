@@ -3,7 +3,6 @@ layout: default
 title: Luoben Zhang
 description: Hi, my name is Luoben Zhang. I am a Business Analytics graduate student with experience in fast-paced environments. Here are some of my projects and coursework. 
 ---
-
 - ![ ](innovation.jpg)
 
 ## This is my Project code Folder

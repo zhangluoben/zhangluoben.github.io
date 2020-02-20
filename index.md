@@ -10,4 +10,4 @@ description: This website contains all my work
 [Go to Code Folder](/code/index.md)
 
 ## Machine Learning Team 18 Presentation
-
+[Chapter 8: Bagging, RandomForest, Boosting](Team18/index.md)

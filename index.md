@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Luoben Zhang
-description: This website contains all my work
+description: Hi, my name is Luoben Zhang. I am a Business Analytics graduate student with experience in fast-paced environments. Here are some of my projects and coursework. I am most skilled in: Python, R, MySQL.
 ---
 
 - ![ ](innovation.jpg)
-## My First Heading
+
+## This is my Project code Folder
 
 [Go to Code Folder](/code/index.md)
 

@@ -10,5 +10,5 @@ description: Hi, my name is Luoben Zhang. I am a Business Analytics graduate stu
 [Go to Code Folder](/code/index.md)
 
 ## Machine Learning Team 18 Presentation
-[Chapter 8: Bagging, RandomForest, Boosting](Team18/readme.md)
+[Chapter 8: Bagging, RandomForest, Boosting](Team18/readme.md)  
 [Santander Value Prediction Challenge](Sandandar/Readme.md)
